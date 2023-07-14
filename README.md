@@ -7,3 +7,4 @@
 
 ### 강의 정리 포스팅 링크
 - [객체 지향 설계와 스프링](https://sunbchoi.tistory.com/7)
+- [스프링 핵심 원리 이해1 - 예제 만들기](https://sunbchoi.tistory.com/11)
